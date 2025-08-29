@@ -83,58 +83,39 @@
         
         <div class="faq-item">
             <div class="faq-question">
-                Was sind Ihre Öffnungszeiten?
+                Wie viele Personen nehmen an der Reise teil?
             </div>
             <div class="faq-answer">
-                <p>Wir sind Montag bis Freitag von 9:00 bis 18:00 Uhr geöffnet. Am Wochenende haben wir von 10:00 bis 16:00 Uhr geöffnet.</p>
+                <p>Die Reise findet in kleinem Rahmen mit maximal 20-25 Teilnehmer:innen statt.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question">
-                Wie kann ich Sie kontaktieren?
+                Was ist im Preis inkludiert?
             </div>
             <div class="faq-answer">
-                <p>Sie können uns per E-Mail unter info@beispiel.de erreichen oder telefonisch unter 0123-456789. Gerne können Sie auch unser Kontaktformular auf der Website nutzen.</p>
+                <p>Programm & Kontaktkuratierung, Dolmetschung im Business‑Programm, Transfers laut Programm,  Business‑Dinner & Lunches, Medien‑Kurz‑Porträt. Flüge sind exklusive..</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question">
-                Bieten Sie kostenlosen Versand an?
+                Wie läuft die Anmeldung ab?
             </div>
             <div class="faq-answer">
-                <p>Ja, wir bieten kostenlosen Versand für alle Bestellungen über 50€ innerhalb Deutschlands an. Bei kleineren Bestellungen beträgt die Versandkostenpauschale 4,99€.</p>
+                <p>Wir empfehlen zunächst ein kostenfreies, unverbindliches 15-Minuten-Gespräch zu vereinbaren. Anschließend können Sie Ihre Anmeldung über unser Formular vornehmen.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question">
-                Wie lange dauert die Lieferung?
+               Kann ich jemanden aus meinem Unternehmen mitnehmen?
             </div>
             <div class="faq-answer">
-                <p>Die Standardlieferzeit beträgt 2-3 Werktage innerhalb Deutschlands. Für Expressversand (24 Stunden) bieten wir einen Aufpreis von 9,99€ an.</p>
+                <p>Selbstverständnlich können Sie zu zweit aus einem Unternehmen teilnehmen. Sprechen Sie uns hierzu direkt an.</p>
             </div>
         </div>
-        
-        <div class="faq-item">
-            <div class="faq-question">
-                Kann ich meine Bestellung stornieren?
-            </div>
-            <div class="faq-answer">
-                <p>Ja, Sie können Ihre Bestellung bis zu 2 Stunden nach der Bestellbestätigung kostenfrei stornieren. Danach ist eine Stornierung nur noch gegen eine Bearbeitungsgebühr von 5€ möglich.</p>
-            </div>
-        </div>
-        
-        <div class="faq-item">
-            <div class="faq-question">
-                Haben Sie ein Rückgaberecht?
-            </div>
-            <div class="faq-answer">
-                <p>Selbstverständlich! Sie haben 30 Tage Zeit, um Ihre Artikel zurückzusenden. Die Artikel müssen unbenutzt und in der Originalverpackung sein.</p>
-            </div>
-        </div>
-    </div>
 
     <script>
         // FAQ Accordion Funktionalität
