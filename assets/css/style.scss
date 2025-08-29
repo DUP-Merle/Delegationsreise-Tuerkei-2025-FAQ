@@ -1,0 +1,27 @@
+---
+---
+
+/* Kopfzeile & Seitentitel ausblenden */
+.page-header,
+.site-header,
+header[role="banner"] {
+  display: none !important;
+}
+
+/* H1/Titel innerhalb des Inhalts ausblenden (falls vorhanden) */
+.project-name,
+.project-tagline,
+.page-title,
+main h1:first-of-type {
+  display: none !important;
+}
+
+/* Oberen Abstand entfernen, damit der Inhalt hochrutscht */
+.page-content,
+.main-content,
+.container-lg,
+.container,
+section[role="main"] {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
